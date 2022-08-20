@@ -7,7 +7,7 @@ import com.sergnfitness.android.fit.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
-
+//    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
     lateinit var binding: ActivityMainBinding
     lateinit var viewModel: MainViewModel
 
